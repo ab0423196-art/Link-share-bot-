@@ -43,7 +43,7 @@ ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/ABANIME
 ›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Eren_Yeager_76</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/animes_cruise'>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
-<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/movieflixspot'>ᴍᴏᴠɪᴇғʟɪx sᴘᴏᴛ</a>
+<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/ABANIMEOFFICIAL'>ᴍᴏᴠɪᴇғʟɪx sᴘᴏᴛ</a>
 ›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/ABANIMEOFFICIAL'>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>
 ›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/ABANIMEOFFICIAL'>Crunchyroll</a>
 ›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/ABANIMEOFFICIAL'>AB Anime</a>
