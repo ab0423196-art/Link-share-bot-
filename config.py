@@ -27,8 +27,8 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "40"))
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
 
 # Start pic
-START_PIC = "https://telegra.ph/file/f3d3aff9ec422158feb05-d2180e3665e0ac4d32.jpg"
-START_IMG = "https://telegra.ph/file/f3d3aff9ec422158feb05-d2180e3665e0ac4d32.jpg"
+START_PIC = "https://graph.org/file/16d0926b48e60c7004684-c25b7b5bffce430219.jpg"
+START_IMG = "https://graph.org/file/16d0926b48e60c7004684-c25b7b5bffce430219.jpg"
 # Messages
 START_MSG = os.environ.get("START_MESSAGE", "<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴀᴅᴠᴀɴᴄᴇᴅ ʟɪɴᴋs sʜᴀʀɪɴɢ ʙᴏᴛ. ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ, ʏᴏᴜ ᴄᴀɴ sʜᴀʀᴇ ʟɪɴᴋs ᴀɴᴅ ᴋᴇᴇᴘ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟs sᴀғᴇ ғʀᴏᴍ ᴄᴏᴘʏʀɪɢʜᴛ ɪssᴜᴇs.\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/Dub_Anime_ZZ'>Eren</a></blockquote></b>")
 HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Creator: <a href=https://t.me/Eren_Yeager_76>Eren</a>\n» Our Community: <a href=https://t.me/ABANIMEOFFICIAL>Flix// Network</a>\n» Anime Channel: <a href=https://t.me/ABANIMEOFFICIAL>AB ANIME OFFICIAL</a>\n» Ongoing Anime: <a href=https://t.me/Dub_Anime_ZZ>Crunchyroll</a>\n» Developer: <a href=https://t.me/Eren_Yeager_76>Eren</a></b>")
@@ -42,12 +42,12 @@ ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/ABANIME
 ›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>
 ›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Eren_Yeager_76</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
-CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/ABANIMEOFFICIAL'>AB ANIME</a>
-<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/ABANIMEOFFICIAL'>ᴍᴏᴠɪᴇғʟɪx sᴘᴏᴛ</a>
-›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/ABANIMEOFFICIAL'>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>
-›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/ABANIMEOFFICIAL'>Crunchyroll</a>
-›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/ABANIMEOFFICIAL'>AB Anime</a>
-›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/ABANIMEOFFICIAL'>Crunchyroll</a>
+CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/ABANIMEOFFICIAL'>ᴀʙ ᴀɴɪᴍᴇ</a>
+<blockquote expandable>›› ᴍʏ ᴀʟɪᴄᴇ: <a href='https://t.me/ABANIMEOFFICIAL'>ᴀʙ ᴀɴɪᴍᴇ</a>
+›› ᴏɴɢᴏɪɴɢ ᴀɴɪᴍᴇ: <a href='https://t.me/ABANIMEOFFICIAL'>ᴀʙ ᴀɴɪᴍᴇ</a>
+›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/ABANIMEOFFICIAL'>ᴀʙ ᴀɴɪᴍᴇ</a>
+›› ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs: <a href='https://t.me/ABVerseBots'>ᴀʙ ᴠᴇʀsᴇ ʙᴏᴛs</a>
+›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/ABANIMEOFFICIAL'>ᴀʙ ᴀɴɪᴍᴇ</a>
 ›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Eren_Yeager_76</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
