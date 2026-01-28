@@ -263,7 +263,7 @@ async def not_joined(client: Client, message: Message):
                 except Exception as e:
                     print(f"Error with chat {chat_id}: {e}")
                     return #await temp.edit(
-                        #f"<b><i>! Eʀʀᴏʀ, Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴛᴏ sᴏʟᴠᴇ ᴛʜᴇ ɪssᴜᴇs @rohit_1888</i></b>\n"
+                        #f"<b><i>! Eʀʀᴏʀ, Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴛᴏ sᴏʟᴠᴇ ᴛʜᴇ ɪssᴜᴇs @Eren_Yeager_76</i></b>\n"
                         #f"<blockquote expandable><b>Rᴇᴀsᴏɴ:</b> {e}</blockquote>"
                     #)
 
@@ -563,7 +563,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
         
         await query.edit_message_media(
             InputMediaPhoto(
-                "https://envs.sh/Wdj.jpg",
+                "https://graph.org/file/16d0926b48e60c7004684-c25b7b5bffce430219.jpg",
                 ABOUT_TXT
             ),
             reply_markup=InlineKeyboardMarkup([
@@ -576,7 +576,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
         user_link = f"https://t.me/{user.username}" if user.username else f"tg://openmessage?user_id={OWNER_ID}" 
         ownername = f"<a href={user_link}>{user.first_name}</a>" if user.first_name else f"<a href={user_link}>no name !</a>"
         await query.edit_message_media(
-            InputMediaPhoto("https://envs.sh/Wdj.jpg", 
+            InputMediaPhoto("https://graph.org/file/16d0926b48e60c7004684-c25b7b5bffce430219.jpg", 
                             CHANNELS_TXT
             ),
             reply_markup=InlineKeyboardMarkup([
